@@ -30,8 +30,6 @@ int main()
       {
         cout << 1;
         return 0;
-        l++;
-        r--;
       }
 
       else if (total < 0)
